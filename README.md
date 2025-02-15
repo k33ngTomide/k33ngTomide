@@ -43,9 +43,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="
+<p align="center" style="
   display: grid; 
   grid-template-columns: repeat(6, 1fr); 
+  grid-template-rows: repeat(6, 1fr); 
   gap: 20px; 
   justify-items: center;
   align-items: center;
