@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sodiq Akintomide Muiliyu</h1>
-<h3 align="center">I'm a software engineer dedicated to building innovative solutions that improve user experiences. My work primarily focuses on mobile applications, backend services, and AI integrations. I enjoy solving complex problems and creating seamless digital experiences.</h3>
+<h3 align="center">
+  I'm a software engineer dedicated to building innovative solutions that improve user experiences. My work primarily focuses on mobile applications/web applications, backend services, and AI integrations. I enjoy solving complex problems and creating seamless digital experiences.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k33ngtomide&label=Profile%20views&color=0e75b6&style=flat" alt="k33ngtomide" /> </p>
 
@@ -17,7 +19,7 @@
 
 - 📫 How to reach me **msodiqakintomide@gmail.com**
 
-- 📄 Know about my experiences in [My CV](https://drive.google.com/file/d/1OfJljGb1vmtbMFB1JrT-bEkZKsEAMKwx/view?usp=sharing)
+- 📄 Know about my experiences in [My CV](https://drive.google.com/file/d/1mYqEbfwby69wocNl82xRAcJY61nEQIto/view?usp=sharing)
 
 - ⚡ Fun fact **The strongest muscle in the body is the tongue**
 
