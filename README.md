@@ -80,10 +80,10 @@ I write about:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/sodiq-muiliyu  
-- 🐦 Twitter: https://twitter.com/akinz_sodiq  
+- 🐦 Twitter: https://twitter.com/tomydde  
 - 🧠 HackerRank: https://www.hackerrank.com/@msodiqakintomide  
 - 📧 Email: msodiqakintomide@gmail.com  
-- 📄 CV: https://drive.google.com/file/d/1mYqEbfwby69wocNl82xRAcJY61nEQIto/view?usp=sharing  
+- 📄 CV: [Sodiq Akintomide Muiliyu CV](https://drive.google.com/file/d/1DM8t3gRiyPDxD_ZQck0R7lJ5u4wVWLo8/view?usp=drive_link)
 
 ---
 
